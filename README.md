@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @GHOSH2341
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in DEV OPS
+- 🌱 I’m currently learning COMPUTER SCIENCE
 
-<!---
-GHOSH2341/GHOSH2341 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
