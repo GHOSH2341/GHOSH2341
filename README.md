@@ -1,7 +1,6 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreebackground%2Fprogramming-and-coding-banner-working_1862296.html&psig=AOvVaw0x2pgT4y0u8qdqDAAd_fvs&ust=1667972442089000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCGhb_vnfsCFQAAAAAdAAAAABAE)]
 <h1 align="center">Hi 👋, I'm ARITRIK GHOSH</h1>
 <h3 align="center">A PASSONATE SOFTWARE DEVELOPER INTERN</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw29Firckui7e3tetqeZkRsG&ust=1667972207142000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDOqc_unfsCFQAAAAAdAAAAABAE">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghosh2341" alt="ghosh2341" /></a> </p>
 
